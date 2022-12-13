@@ -2,10 +2,10 @@
 
 ## Created the 0x0-hello_world directory 
 
-	1 -Created the file 0-preprocessor, it contains  a script that runs a C
+	0 -Created the file 0-preprocessor, it contains  a script that runs a C
 	 file through the preprocessor and save the result into another file.
 
-	2 -The file 1-compiler,writes a script that compiles a C file but does 
+	1 -The file 1-compiler,writes a script that compiles a C file but does 
 	not link.
 	The C file name will be saved in the variable $CFILE
 	The output file should be named the same as the C file, 
@@ -16,3 +16,6 @@
 	The C file name will be saved in the variable $CFILE
 	The output file should be named the same as the C file, but with the 
 	extension .s instead of .c .
+
+	3 -The file 3-name contains a script that compiles a C file and creates 	an executable named cisfun.
+	The C file name will be saved in the variable $CFILE
