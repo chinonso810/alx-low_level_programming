@@ -27,4 +27,5 @@
 	5 -the file 5-printf.c runs a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
 	Using the function printf.
 
-	6 -
+	6 -the file 6-size.c runs a C program that prints the size of various
+	 types on the computer it is compiled and run on .
