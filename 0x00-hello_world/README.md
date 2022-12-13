@@ -19,3 +19,12 @@
 
 	3 -The file 3-name contains a script that compiles a C file and creates 	an executable named cisfun.
 	The C file name will be saved in the variable $CFILE
+
+	4 - Created the file 4-puts.c, it contains a C program that prints exactly "Programming is like building a multilingual puzzle, 
+	followed by a new line.
+	Using the function puts .
+
+	5 -the file 5-printf.c runs a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+	Using the function printf.
+
+	6 -
