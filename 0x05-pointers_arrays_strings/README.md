@@ -11,3 +11,4 @@
 
 3 -The file 3-puts.c contains a function that prints a string followed by a new line to stdout (written in C).
 
+4 -The file'4-print_rev.c' prints a string in reverse using the print_rev(str) function.
