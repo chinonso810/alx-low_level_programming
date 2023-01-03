@@ -10,3 +10,6 @@
 1 -The file 1-memcpy.c contains a function that copies memory area.
 	.prototype: char *_memcpy(char *dest, char *src, unsigned int n);
 
+2 -The file 2-strchr.c contains a function that  locates a character in a string.
+
+
