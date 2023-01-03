@@ -14,3 +14,5 @@
 
 3 -Created the file 3-strspn.c which contains a function that gets the length of a prefix substring.
 
+4 -Created the file 4-strpbrk contains  a function that searches a string for any of a set of bytes.
+
