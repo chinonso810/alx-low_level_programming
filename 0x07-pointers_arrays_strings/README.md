@@ -12,4 +12,5 @@
 
 2 -The file 2-strchr.c contains a function that  locates a character in a string.
 
+3 -Created the file 3-strspn.c which contains a function that gets the length of a prefix substring.
 
