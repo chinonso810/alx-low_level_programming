@@ -22,5 +22,7 @@
 
 7 -The file 8-print_diagsums.c contains a function that prints the sum of the two diagonals of a square matrix of integers.
 
+8 -Created the file 100-set_string.c contains a function that sets the value of a pointer to a char.
+
 
 8
