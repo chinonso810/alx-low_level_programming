@@ -18,4 +18,6 @@
 
 5 -The file 5-strstr.c contains a function that locates a substring.
 
+6 -Created the file 7-print_chessboard.c which contains a function thats prints the chessboard.
+
 
