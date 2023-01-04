@@ -20,4 +20,7 @@
 
 6 -Created the file 7-print_chessboard.c which contains a function thats prints the chessboard.
 
+7 -The file 8-print_diagsums.c contains a function that prints the sum of the two diagonals of a square matrix of integers.
 
+
+8
