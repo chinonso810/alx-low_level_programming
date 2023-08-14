@@ -1,7 +1,6 @@
-## Created the 0x09-static_libraries directory
-
-                     TASK
-0. Created the static library libmy.a containing all the functions listed below:
+## Created the 0x09-static_libraries directoruy inside the alx-low_lvel_programming repository.
+                                            TASKS
+0. Create the static library libmy.a containing all the functions listed below:
 
 int _putchar(char c);
 int _islower(int c);
@@ -23,5 +22,4 @@ char *_strchr(char *s, char c);
 unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
-
-1. Created a script called create_static_lib.sh that creates a static library called liball.a from all the .c files that are in the current directory.                      
+  And converted the .c files to .o and later copied *.o files to the static library "libmy.a"
