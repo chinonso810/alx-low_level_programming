@@ -22,4 +22,6 @@ char *_strchr(char *s, char c);
 unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
-  And converted the .c files to .o and later copied *.o files to the static library "libmy.a"
+  And converted the .c files to .o and later copied *.o files to the static library "libmy.a".
+
+1. Created a script called create_static_lib.sh that creates a static library called liball.a from all the .c files that are in the current directory.
